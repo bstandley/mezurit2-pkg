@@ -1,0 +1,5 @@
+mezurit2 (1d16651-1) UNRELEASED; urgency=low
+
+  * Initial release, without GPIB.
+
+ -- Brian Standley <brian@brianstandley.com>  Tue, 29 Mar 2016 11:20:28 +0200

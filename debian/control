@@ -1,0 +1,13 @@
+Source: mezurit2
+Maintainer: Brian Standley <brian@brianstandley.com>
+Section: science
+Priority: optional
+Standards-Version: 3.9.5
+Build-Depends: debhelper (>= 9)
+
+Package: mezurit2
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Data acquisition system
+ Scriptable continuous and triggered data acquisition system for
+ Linux and Windows
