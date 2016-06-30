@@ -1,3 +1,9 @@
+mezurit2 (8904fdc-1) UNRELEASED; urgency=low
+
+  * New feature: Anti-ghosting for multiplexed ADCs.  Still without GPIB.
+
+ -- Brian Standley <brian@brianstandley.com>  Thu, 30 Jun 2016 10:20:44 +0200
+
 mezurit2 (1d16651-1) UNRELEASED; urgency=low
 
   * Initial release, without GPIB.
